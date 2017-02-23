@@ -1,4 +1,4 @@
-//this is hello world program
+/this is hello world program
 #include<stdio.h>
 int main()
 {
